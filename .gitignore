@@ -1,3 +1,15 @@
+# OS, IDE
+venv/
+.idea/
+.vscode/
+.DS_Store/
+djadmin/static
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
 # Logs
 logs
 *.log
